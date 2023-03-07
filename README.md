@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A passionate deep learning researcher, specialized in multi-omics data integration for applications in oncology.</h3>
+<h3 align="center">A passionate deep learning researcher, specialized in multi-omics data in oncology (mostly cytometry and spatial transcriptomics).</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
